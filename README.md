@@ -1,2 +1,4 @@
 # Superstore-Sales-EDA-Project
-Exploratory Data Analysis on Superstore Sales dataset using Python to uncover sales trends, profit distribution, and business insights.
+Performed end-to-end exploratory data analysis on retail sales data to uncover sales trends, profit patterns, and regional performance insights. Applied data cleaning, transformation, grouping, and visualization techniques using Python (Pandas) in Jupyter Notebook to extract actionable business insights.
+
+Tools: Python, Pandas, Jupyter Notebook
